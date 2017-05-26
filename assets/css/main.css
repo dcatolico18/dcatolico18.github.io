@@ -20,6 +20,7 @@
 				box-shadow: 0 0 0 1.5em #ffffff;
 				width: auto;
 				height: auto;
+				max-width: 150px; 
 			}
 
 			#main .avatar:before {
