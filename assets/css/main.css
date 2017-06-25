@@ -2237,7 +2237,6 @@
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
-		color: #c0c0c0
 	}
 
 		#nav > ul {
@@ -2282,6 +2281,7 @@
 				-webkit-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
 				transition: color 0.35s ease-in-out, border-color 0.35s ease-in-out;
+				color: rgb(152, 26, 49);
 			}
 
 				#nav > ul > li.active {
